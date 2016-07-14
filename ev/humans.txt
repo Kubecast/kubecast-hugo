@@ -2,30 +2,17 @@
 # The humans responsible & technology colophon
 
 /* TEAM */
-	Co-Host and Pretend Front-End Developer: Matt Stratton
-	Contact: matt.stratton [at] gmail.com
-	Twitter: @mattstratton
-	From: Chicago, Illinois, USA
+	Co-Host: Ivan Pedrazas
+	Contact: ipedrazas [at] gmail.com
+	Twitter: @ipedrazas
+	From: Barcelona, Spain
 
-	Co-Host and Graphics Whiz: Trevor Hess
-	Twitter: @trevorghess
-	From: Chicago, Illinois, USA
-
-	Co-host and awk/sed genius: Bridget Kromhout
-	Twitter: @bridgetkromhout
-	From: Minneapolis, Minnesota, USA
-
-/* THANKS */
-
-	Show Note Writer: Mary Thengvall
-  Twitter: mary_grace
-
-  Show Note Writer: Bellamy Smith
-  Twitter: bellamysmith
-  Contact: bellamysmith1 [at] gmail.com
+	Co-Host: Milos Gajdos
+	Twitter: @milosgajdos
+	From: Somewhere remote
 
 /* SITE */
 	Language: English
 	Doctype: HTML5
   Site Generator: Hugo (http://gohugo.io)
-	IDE: Atom, Vim, Photoshop
+	IDE: SublimeText, Vim

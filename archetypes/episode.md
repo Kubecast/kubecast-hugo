@@ -11,7 +11,7 @@ episode = ""
 title = ""
 images = [""]
 news_keywords = []
-author = "Matt"
+author = ""
 aliases = ["/##"]
 youtube = ""
 +++
