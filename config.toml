@@ -1,0 +1,44 @@
+
+BaseURL = "https://www.kubecast.com/"
+languageCode = "en-us"
+title = "Kubecast"
+theme = "ado"
+canonifyurls = false
+buildFuture = false
+buildDrafts = false
+dataDir = "data"
+disqusShortname = ""
+archetypedir = "archetypes"
+paginate = 9
+
+[permalinks]
+	page = "/:filename/"
+	about = "/:filename/"
+	episode = "/:filename/"
+	sponsor = "/:filename"
+	redirect = "/:filename"
+
+[params]
+
+GATracker = "UA-80314661-1"
+Twitter = "//twitter.com/kubecast"
+Description = "Kubecast a podcast about kubernetes, schedulers, containers and the new world."
+	[params.social]
+		github = "kubecast"
+		twitter = "kubecast"
+		youtube = "kubecast"
+	[params.authors]
+	  [params.authors.Ivan]
+		name	= "Ivan Pedrazas"
+		thumbnail = "/img/ivan.png"
+		bio = "Ivan is."
+		[params.authors.Ivan.social]
+			github = "ipedrazas"
+			twitter = "ipedrazas"
+			linkedin = "ipedrazas"
+	[params.authors.Milos]
+		name = "Milos Gadjos"
+		thumbnail = "/img/milos.png"
+		bio = ""
+		[params.authors.Milos.social]
+			twitter = "milosgajdos "
