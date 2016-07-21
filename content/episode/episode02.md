@@ -1,5 +1,5 @@
 +++
-Description = "Interview Deis CTO Gabriel Monroy"
+Description = "Interview with Gabriel Monroy, Deis CTO "
 aliases = ["/0"]
 author = "Ivan"
 categories = []
