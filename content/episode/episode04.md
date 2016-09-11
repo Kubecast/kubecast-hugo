@@ -17,8 +17,7 @@ title = "Episode 04 - Interview with Joseph Jacks"
 +++
 
 
-During this 4th episode of Kubecast we interview Joseph Jacks from Apprenda. We talk about the origins of `Asynchio`,
-Kismatic acquistion by Apprenda, the CNCF, and KubeCon.
+Joseph Jacks, from Apprenda, came to London recently and we all joined together at Ivan's house for this interview. We talked about the origins of `Asynchio`, Kismatic acquisition by Apprenda, the CNCF, and KubeCon.
 
 
 As usual, if you want to get in contact or want to send feedback you can reach us at twitter at [@kubecast](https://twitter.com/kubecast) or by email to **kubecast at k8s.uk**
