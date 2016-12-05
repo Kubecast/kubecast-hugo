@@ -1,5 +1,5 @@
 
-BaseURL = "https://www.kubecast.com/"
+BaseURL = "https://www.kubecast.com"
 languageCode = "en-us"
 title = "Kubecast"
 theme = "ado"

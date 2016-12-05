@@ -3,24 +3,24 @@ Description = "Interview with David O'Dwyer"
 aliases = ["/0"]
 author = "Ivan"
 categories = []
-date = "2016-12-02T17:34:10-05:00"
+date = "2016-12-04T17:34:10-05:00"
 episode = "5"
 friendly = "odwyer"
 guests = ["odwyer"]
 images = ["/img/social/fb/odwyer.png"]
 news_keywords = []
-podcast = "https://api.spreaker.com/download/episode/9381709/kubecast_ep05.mp3"
+podcast = "http://api.spreaker.com/download/episode/10034426/kubecast_ep05.mp3"
 sponsors = []
 tags = []
 title = "Episode 05 - Interview with David O'Dwyer"
 
 +++
+In this episode with interview David O'Dwyer, from Livewyer, the first English company who joined the CNCF.
 
-In this episode with interview David O'Dwyer, from Livewyer, the first English company who joined the CNCF. 
-During this interview we talked about the origins of the Kubernetes London Meetup. We talked about KubeCon,
-and the CNCF conference that happenned in Seattle recently.
+During this interview, we talked about the origins of the Kubernetes London Meetup. We talked about KubeCon,
+and the CNCF conference that happened in Seattle recently.
 
-David has built an Alexa-kubernetes integration and we tested it live. Last but not least, we talked about 
+David has built an Alexa-kubernetes integration and we tested it live. Last but not least, we talked about
 the super awesome Kubernetes Community!
 
 The longest episode so far, but one of the best ones!

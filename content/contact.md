@@ -4,7 +4,9 @@ description = "about this site"
 date = "2015-09-01"
 +++
 
-<p>Email: shows [at] kubecast [dot] com</p>
+The best way of contacting us is by Twitter at <a href = "http://twitter.com/kubecast">@Kubecast</a> or 
+using our Twitter handles to get hold of <a href = "https://twitter.com/ipedrazas">Ivan</a> or <a href = "https://twitter.com/milosgadjos">Milos</a>.
 
-<p>Twitter: <a href = "http://twitter.com/kubecast">@Kubecast</a><p>
+<p>Another option is using email at kubecast at k8s dot uk but we much rather being approached using Twitter.</p>
+
 
